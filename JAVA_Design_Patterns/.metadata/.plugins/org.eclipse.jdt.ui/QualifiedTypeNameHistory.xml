@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="PatternStrategyStrategies.StrategyCalcFixedPrice"/>
+<fullyQualifiedTypeName name="PatternStrategyStrategies.StrategyCalcLucro"/>
+<fullyQualifiedTypeName name="PatternStrategyStrategies.StrategyCalcLoss"/>
+<fullyQualifiedTypeName name="PatternFactory.CalculationFactory"/>
+</qualifiedTypeNameHistroy>

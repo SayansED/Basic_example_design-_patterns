@@ -1,0 +1,5 @@
+package PatternFactory;
+
+public class CalculationFactory {
+
+}

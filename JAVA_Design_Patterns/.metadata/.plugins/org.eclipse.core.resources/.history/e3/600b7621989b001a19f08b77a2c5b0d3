@@ -1,0 +1,10 @@
+package PatternFactory;
+
+import PatternStrategyStrategies.StrategyCalculation;
+
+public class CalculationFactory {
+	
+	public static StrategyCalculation criarCalculo() {
+		
+	}
+}
